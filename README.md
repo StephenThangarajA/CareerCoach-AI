@@ -45,8 +45,6 @@ ai-careercoach/
 │   ├── dashboard/           # Dashboard-related components
 │   ├── forms/               # Form inputs (e.g., skill input, goal input)
 │   ├── roadmap/             # Timeline/roadmap rendering components
-│   ├── chatbot/             # Chatbot UI and logic components
-│   └── ... (other components)
 ├── pages/                   # Next.js routes (Frontend + API)
 │   ├── api/                 # Backend API endpoints
 │   │   ├── recommend.js     # Career recommendation endpoint
@@ -56,7 +54,6 @@ ai-careercoach/
 │   ├── index.jsx            # Landing/home page
 │   ├── login.jsx            # Auth login page (Clerk)
 │   ├── signup.jsx           # Auth signup page
-│   └── ... (other pages)
 ├── lib/                     # Utility functions and integrations
 │   ├── ai/                  # Gemini API interaction logic
 │   ├── db.js                # Prisma DB client configuration
