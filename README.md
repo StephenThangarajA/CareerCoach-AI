@@ -6,12 +6,6 @@
 
 ---
 
-## 🌐 Live Demo
-
-🔗 [Visit Live App](https://your-deployed-site-url.com)
-
----
-
 ## Working Demo 🎥
 
 https://drive.google.com/file/d/13PqasH5Dwv3eBTKtBlh8ZLluyfyWsCdf/view?usp=sharing
